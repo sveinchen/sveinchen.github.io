@@ -1,2 +1,3 @@
 # nievs
-A Jekyll theme based on poole/poole and jekyll/minima.
+
+A [Jekyll](http://jekyllrb.com/) theme based on [Poole](https://github.com/poole/poole) and [Minima](https://github.com/jekyll/minima).
