@@ -1,0 +1,18 @@
+# Setup
+title: Nievs
+tagline: A Jekyll Theme
+baseurl: /
+author: Sveinchen
+
+# Permalinks
+permalink: /:year/:month/:day/:title.html
+
+# Build settings
+markdown: kramdown
+sass:
+  sass_dir: _sass
+  style: :compressed
+
+# Gems
+gems:
+  - jekyll-gist
